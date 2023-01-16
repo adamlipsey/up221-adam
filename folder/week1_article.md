@@ -11,3 +11,5 @@ This article discusses the "affordability gap" of broadband internet access in t
 **** Map review
 
 I think that the main map in the article was produced in Geopandas based on the color scheme and axis style. I personally think the map is fine, but I am curious to see what it would look like with a monochromatic color scheme, such as darker green = more available; lighter green = less available. For this particular representation, I think a graduated style gets the pont across, and it is distracting to have random colors assigned to percentages, so the eye needs to keep returning to the axis to know what color is what value.
+
+![Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izwgOFxs3uiA/v1/-1x-1.jpg)
