@@ -2,7 +2,7 @@
 
 #### Name
 
-Where Internet Connection Costs More in the US
+[Where Internet Connection Costs More in the US](https://www.bloomberg.com/news/articles/2023-01-13/mapping-where-americans-pay-less-for-internet?srnd=citylab-economy)
 
 #### Summary
 
